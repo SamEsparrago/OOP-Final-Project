@@ -1,17 +1,18 @@
 # Bookstore with Charity Donation "N.C. Bookstore"
 
-** Overview
-** The "Bookstore with Charity Donation" is a Java Console Program that allows users to purchase books and contribute to a charitable cause. This program demonstrates Object-Oriented Programming (OOP) principles while addressing Sustainable Development Goal 1: No Poverty. Customers can view book details, manage their shopping cart, and donate to charity during checkout, promoting social responsibility.
+# Overview
 
- OOP Principles Applied
+# The "Bookstore with Charity Donation" is a Java Console Program that allows users to purchase books and contribute to a charitable cause. This program demonstrates Object-Oriented Programming (OOP) principles while addressing Sustainable Development Goal 1: No Poverty. Customers can view book details, manage their shopping cart, and donate to charity during checkout, promoting social responsibility.
 
-1. Encapsulation:
+# OOP Principles Applied
+
+* Encapsulation:
    - Private fields are used in the `Book` class to store book details, with public getter and setter methods for controlled access.
 
-2. Inheritance:
+* Inheritance:
    - The `Customer` class inherits from the `User` abstract class, showcasing code reuse and hierarchical relationships.
 
-3. Polymorphism:
+* Polymorphism:
    - Method overriding is implemented in the `Customer` class by redefining the `displayRole` method from the `User` class.
    - The `CharityDonation` class implements the `DonationRecipient` interface, showcasing polymorphism.
 
