@@ -56,7 +56,4 @@ This project aligns with SDG 1: No Poverty by integrating a feature that allows 
      - Add books to your cart.
      - Proceed to checkout and make donations.
 
-Video Presentation Link:
-https://drive.google.com/drive/folders/1-N1KO4zUDaL-8w2LOLj_fD2xfxtsGkl6?usp=sharing
-
 
