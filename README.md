@@ -15,7 +15,7 @@ The "Bookstore with Charity Donation" is a Java Console Program that allows user
    - Method overriding is implemented in the `Customer` class by redefining the `displayRole` method from the `User` class.
    - The `CharityDonation` class implements the `DonationRecipient` interface, showcasing polymorphism.
 
-4. Abstraction:
+* Abstraction:
    - Abstract classes (`User`) and interfaces (`DonationRecipient`) are used to hide implementation details while defining core functionality.
 
 ---
