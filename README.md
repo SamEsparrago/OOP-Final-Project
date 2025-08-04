@@ -1,7 +1,7 @@
 # Bookstore with Charity Donation "N.C. Bookstore"
 
- Overview
-The "Bookstore with Charity Donation" is a Java Console Program that allows users to purchase books and contribute to a charitable cause. This program demonstrates Object-Oriented Programming (OOP) principles while addressing Sustainable Development Goal 1: No Poverty. Customers can view book details, manage their shopping cart, and donate to charity during checkout, promoting social responsibility.
+** Overview
+** The "Bookstore with Charity Donation" is a Java Console Program that allows users to purchase books and contribute to a charitable cause. This program demonstrates Object-Oriented Programming (OOP) principles while addressing Sustainable Development Goal 1: No Poverty. Customers can view book details, manage their shopping cart, and donate to charity during checkout, promoting social responsibility.
 
  OOP Principles Applied
 
